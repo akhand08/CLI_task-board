@@ -8,9 +8,9 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["todo_list"],
+  "author": "Abdullah Al Adib Akhand",
+  "license": "MIT",
   "dependencies": {
     "@clack/prompts": "^0.7.0",
     "picocolors": "^1.0.0"

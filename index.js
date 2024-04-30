@@ -52,7 +52,7 @@ async function main(){
             message: "Choose Your Options",
             options: [
                 { value: "show", label: "Show the List"},
-                { value: "add",  label: "Add to the List"},
+                { value: "add",  label: "Add Task"},
                 { value: "quit", label: "Quit from App"},
             ]
         })
